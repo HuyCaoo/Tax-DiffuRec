@@ -21,7 +21,7 @@ Tax-DiffuRec addresses this limitation by integrating taxonomy information into 
 
 The overall architecture is shown below:
 
-![Tax-DiffuRec Architecture](asset/tax_diffurec_model_overview.png)
+![Tax-DiffuRec Architecture](asset/tax_diffurec_model_overview=.png)
 
 ## Model Components
 
