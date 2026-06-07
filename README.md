@@ -9,8 +9,7 @@ Tax-DiffuRec extends the original [DiffuRec](https://arxiv.org/abs/2304.00686) m
 
 This implementation is developed for the graduation thesis:
 
-> Gợi ý tuần tự bằng mô hình khuếch tán có hướng dẫn theo phân cấp danh mục
-> Taxonomy-Guided Diffusion for Sequential Recommendation
+> Taxonomy-Guided Diffusion for Sequential Recommendation(Gợi ý tuần tự bằng mô hình khuếch tán có hướng dẫn theo phân cấp danh mục)
 
 ## Overview
 
